@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaan2809-optim\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan2809-optim\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -97,7 +97,7 @@ I can spend hours debugging one missing config line and enjoy every minute of it
 
 ## 📫 Connect
 
-* 💼 GitHub Profile: https://github.com/YOUR_USERNAME
+* 💼 GitHub Profile: https://github.com/Armaan2809-optim
 
 ---
 
