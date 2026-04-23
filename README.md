@@ -66,8 +66,11 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Armaan2809-optim\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+
 </div>
+
 
 ---
 
