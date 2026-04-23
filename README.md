@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaan2809-optim\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armaan2809-optim\&show_icons=true\&count_private=true\&include_all_commits=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Armaan2809-optim\&theme=tokyonight\&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan2809-optim\&layout=compact\&theme=tokyonight\&hide_border=true)
 
